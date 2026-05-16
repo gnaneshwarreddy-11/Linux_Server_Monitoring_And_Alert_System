@@ -17,7 +17,7 @@
 - [Example Output](#example-output)
 - [📚 Key Learnings](#key-learnings)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Linux-based server monitoring and alert system built using Bash scripting.  
 It continuously monitors system resources like CPU, Memory, Disk usage, and Network connectivity and generates logs and alerts when thresholds are crossed.
