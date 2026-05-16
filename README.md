@@ -15,7 +15,8 @@
 - [How to Run](#how-to-run)
 - [How it Works](#how-it-works)
 - [Example Output](#example-output)
-- [📚 Key Learnings](#key-learnings)
+- [Key Learnings](#key-learnings)
+- [Author](#author)
 
 ## Project Overview
 
@@ -98,7 +99,7 @@ chmod +x scripts/monitor.sh
 - Logging and alerting mechanisms
 - Threshold-based monitoring design
 
-## 👨‍💻 Author
+##  Author
 
 - Name: Gnaneshwar Reddy  
 - Role: Aspiring DevOps Engineer  
