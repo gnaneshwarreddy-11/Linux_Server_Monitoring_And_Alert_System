@@ -22,14 +22,14 @@
 This project is a Linux-based server monitoring and alert system built using Bash scripting.  
 It continuously monitors system resources like CPU, Memory, Disk usage, and Network connectivity and generates logs and alerts when thresholds are crossed.
 
-## 🎯 Objective
+##  Objective
 To automate basic server health monitoring using shell scripting and Linux utilities without any external tools.
 
-## 💡 Why this Project
+##  Why this Project
 
 This project demonstrates real-world Linux system administration and DevOps fundamentals like monitoring, automation, logging, and alerting without using external tools.
 
-## ⚙️ Features
+##  Features
 - CPU Usage Monitoring
 - Memory Usage Monitoring
 - Disk Usage Monitoring
@@ -38,12 +38,12 @@ This project demonstrates real-world Linux system administration and DevOps fund
 - Alert Generation based on thresholds
 - Logging system for both normal logs and alerts
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Linux OS
 - Bash Scripting
 - Core Linux Commands (top, free, df, ping, uptime)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 Server_Monitoring_And_Alert_System/
@@ -56,7 +56,7 @@ Server_Monitoring_And_Alert_System/
 └── scripts/                 # Main monitoring automation script
     └── monitor.sh
 ```
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1: Clone Repository
 ```bash
@@ -75,14 +75,14 @@ chmod +x scripts/monitor.sh
 ./scripts/monitor.sh
 ```
 
-## 📊 How It Works
+##  How It Works
 - Reads threshold values from config/thresholds.conf
 - Collects system metrics using Linux commands
 - Compares values with thresholds
 - Logs normal data into logs/system.log
 - Logs alerts into alerts/alerts.log
 
-## 📌 Example Output
+##  Example Output
 ```bash
 [2026-05-16 06:49:17] CPU Usage = 45%
 [2026-05-16 06:49:17] Memory Usage = 60%
@@ -90,7 +90,7 @@ chmod +x scripts/monitor.sh
 [2026-05-16 06:49:17] Network Status = UP
 ```
 
-## 📚 Key Learnings
+##  Key Learnings
 
 - Linux system monitoring fundamentals
 - Bash scripting automation
