@@ -15,7 +15,7 @@
 - [How to Run](#how-to-run)
 - [How it Works](#how-it-works)
 - [Example Output](#example-output)
-- [Key Learnings](#key-learnings)
+- [📚 Key Learnings](#key-learnings)
 
 ## 📌 Project Overview
 
